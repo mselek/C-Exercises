@@ -1,0 +1,17 @@
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\C-Exercises.exe
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\C-Exercises.dll.config
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\C-Exercises.deps.json
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\C-Exercises.runtimeconfig.json
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\C-Exercises.runtimeconfig.dev.json
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\C-Exercises.dll
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\ref\C-Exercises.dll
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\bin\Debug\net5.0\C-Exercises.pdb
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.csprojAssemblyReference.cache
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.AssemblyInfoInputs.cache
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.AssemblyInfo.cs
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.csproj.CoreCompileInputs.cache
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.dll
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\ref\C-Exercises.dll
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.pdb
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\net5.0\C-Exercises.genruntimeconfig.cache

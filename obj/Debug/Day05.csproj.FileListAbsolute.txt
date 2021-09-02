@@ -1,0 +1,2 @@
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\Day05.csprojAssemblyReference.cache
+C:\Users\mahir.selek\Documents\GitHub\C-Exercises\obj\Debug\Day05.csproj.CoreCompileInputs.cache

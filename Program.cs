@@ -18,6 +18,7 @@ namespace Day05
             {
                 Console.WriteLine("Adınızı boş giremezsiniz");
             }
+            
             else
             {
                 string[] kelimeler = adSoyad.Split(' ');
